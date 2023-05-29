@@ -2,8 +2,6 @@
 
 Para o primeiro desafio proposto, comecei por calcular os horários de atendimento do cirurgião dentista:
 
-***(considerando que o segundo valor para o horário seja o encerramento de suas atividades no dia)***
-
 **Horários de atendimento**
 - Segunda - 08h às 13h - Totalizando 5 horas - ou - 300 minutos
 - Quarta - 18h às 22h - Totalizando 4 horas - ou - 240 minutos
@@ -24,17 +22,13 @@ Depois, calculei o tempo necessário para atender todos os pacientes considerand
 | Isabela Fernandes | 65 min |
 | Lucas Santos | 85 min |
 | Beatriz Almeida | 75 min |
-| Matheus Costa | 90 min |
-| Tempo total de atendimento | 12H 20M \ 740 min |
+| Tempo total de atendimento | 10H 50M  \ 650 min |
 
-Neste caso, é impossível organizar todos os pacientes na agenda do dentista, pois o tempo total necessário para o atendimento ultrapassa o tempo total disponível para tal.
-
-***(caso o horário informado por último, exemplo Segunda 13h, seja contabilizado como o último horario disponível para atendimento, é possivel organizar o agendamento:)***
-
+Segue um exemplo de como é possivel organizar todos os pacientes de maneira a sobrar alguma folga de tempo em todos os dias:
 **Agendamento**
 | Segunda | Quarta | Sexta |
 |-----------------------------|-----------------------------|--------------------------------|
-| Matheus Costa 08:00 às 09:30 | Maria Clara 18:00 às 19:20 | Pedro Henrique 14:00 às 15:30 |
-| Lucas Santos 9:30 às 10:55 | Beatriz Almeida 19:20 às 20:35 | Gabriel Oliveira 15:30 às 16:40 |
-| Laura Beatriz 10:55 às 11:40 | Isabela Fernandes 20:35 às 21:40 | Ana Luiza 16:40 às 17:40 |
-| João Miguel 11:40 às 13:00 |...|...|
+| Lucas Santos 08:00 às 09:25 | Maria Clara 18:00 às 19:20 | Laura Beatriz 14:00 às 14:45 |
+| Pedro Henrique 9:30 às 11:00  | Beatriz Almeida 19:20 às 20:35 | Isabela Fernandes 14:50 às 15:55 |
+| João Miguel 11:30 às 12:50 | Gabriel Oliveira 20:40 às 21:50 | Ana Luiza 16:00 às 17:00 |
+| Tempo Atentendo: 255 min | Tempo Atendendo: 225 min | Tempo Atendendo: 170 min |
