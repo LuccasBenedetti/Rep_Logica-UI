@@ -31,4 +31,5 @@ Neste caso, é impossível organizar todos os pacientes na agenda do dentista, p
 
 **Agendamento**
 | Segunda | Quarta | Sexta |
+|-----------------------------|-----------------------------|--------------------------------|
 | Matheus Costa 08:00 às 09:30 | Maria Clara 18:00 às 19:20 | Pedro Henrique 14:00 às 15:30 |
