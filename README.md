@@ -1,6 +1,6 @@
 ## Teste 1 - Lógica
 
-Para o primeiro desafio proposto, comecei por calcular os horários de atendimento do cirurgião dentista (considerando que o segundo horário seja o encerramento de suas atividades no dia):
+Para o primeiro desafio proposto, comecei por calcular os horários de atendimento do cirurgião dentista **(considerando que o segundo horário seja o encerramento de suas atividades no dia)**:
 
 **Horários de atendimento**
 - Segunda - 08h às 13h - Totalizando 5 horas - ou - 300 minutos
