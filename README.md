@@ -27,9 +27,12 @@ Depois, calculei o tempo necessário para atender todos os pacientes considerand
 | Tempo total de atendimento | 12H 20M \ 740 min |
 
 Neste caso, é impossível organizar todos os pacientes na agenda do dentista, pois o tempo total necessário para o atendimento ultrapassa o tempo total disponível para tal.
-***(caso o horário informado por último, exemplo Segunda 13h, seja contabilizado como um horario disponível para atendimento, é possivel organizar o agendamento com folga:)***
+***(caso o horário informado por último, exemplo Segunda 13h, seja contabilizado como o último horario disponível para atendimento, é possivel organizar o agendamento:)***
 
 **Agendamento**
 | Segunda | Quarta | Sexta |
 |-----------------------------|-----------------------------|--------------------------------|
 | Matheus Costa 08:00 às 09:30 | Maria Clara 18:00 às 19:20 | Pedro Henrique 14:00 às 15:30 |
+| Lucas Santos 9:30 às 10:55 | Beatriz Almeida 19:20 às 20:35 | Gabriel Oliveira 15:30 às 16:40 |
+| Laura Beatriz 10:55 às 11:40 | Isabela Fernandes 20:35 às 21:40 | Ana Luiza 16:40 às 17:40 |
+| João Miguel 11:40 às 13:00 |----------------------------------|-----------------------------|
